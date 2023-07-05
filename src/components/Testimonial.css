@@ -6,3 +6,19 @@
 .card:not(:hover){
     transition: 900ms;
 }
+
+.img-fluid{
+    border-radius: 100%;
+    height: 7rem;
+    border: 2px outset lightslategray;
+    margin-top: -10%;
+}
+
+body{
+    height: 100%;
+    background-color: cornflowerblue;
+}
+
+.container-fluid{
+    margin-top: 10%;
+}
