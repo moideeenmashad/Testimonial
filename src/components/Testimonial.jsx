@@ -27,11 +27,16 @@ const Testimonial = () => {
                   Explicabo quisquam quidem laborum nemo reiciendis aspernatur
                   molestias, accusantium pariatur repudiandae consequuntur enim
                   amet aut voluptas id ex quis nulla dolorem quaerat.
+    
                 </p>
               </div>
             </div>
             <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <div className="card">
+              <center>
+                <img src="" alt="" srcset="" className="img-fluid"/>
+              </center>
+                
                 <p className="p-2">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   Explicabo quisquam quidem laborum nemo reiciendis aspernatur
