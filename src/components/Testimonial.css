@@ -1,5 +1,6 @@
 
 .card{
+    border-radius: 0.5rem;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 2px 8px;
 }
 .card:hover{
@@ -15,9 +16,9 @@
 
 .img-fluid{
     border-radius: 100%;
-    height: 7rem;
-    border: 2px solid white;
-    margin-top: -10%;
+    height: 9rem;
+    border: 3px solid white;
+    margin-top: -16%;
 }
 
 body{
@@ -28,9 +29,22 @@ body{
     margin-top: 10%;
 }
 
+.star-row{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.star{
+    height: 1rem; 
+}
+
+#clients{
+    color: rgb(65, 103, 218);
+}
+
 @media only screen and (min-width: 900px) {
     
 .img-fluid{
-    margin-top: -20%;
+    margin-top: -18%;
 }
   }
