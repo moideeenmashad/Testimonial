@@ -1,5 +1,6 @@
 import React from "react";
 
+
 const Testimonial = () => {
   return (
     // Testimonial
@@ -7,8 +8,8 @@ const Testimonial = () => {
       <div className="container-fluid">
         <div className="container">
           <div className="row g-4">
-            <center className="mb-5">
-              <h2 className="mt-4 mb-5 text-light fw-bold text-dark">WHAT OUR<span id="clients"> CUSTOMERS SAY</span> </h2>
+            <center className="">
+              <h2 className="title mt-4 mb-5 text-light fw-bold text-dark">WHAT OUR<span id="clients"> CUSTOMERS SAY</span> </h2>
             </center>
             <div className="col-12 col-sm-12 col-md-6 col-lg-4 col-xl-4 col-xxl-4">
               <div className="card mb-5">
