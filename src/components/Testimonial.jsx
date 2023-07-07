@@ -8,12 +8,12 @@ const Testimonial = () => {
         <div className="container">
           <div className="row g-4">
             <center className="mb-5">
-              <h2 className="mt-4 mb-5 text-light fw-bold">WHAT CLIENTS SAY</h2>
+              <h2 className="mt-4 mb-5 text-light fw-bold text-dark">WHAT CLIENTS SAY</h2>
             </center>
             <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
               <div className="card mb-5">
               <center>
-                <img src="\Img\man (1).png" alt="" srcset="" className="img-fluid profile-img"/><br />
+                <img src="\Img\p1.png" alt="" srcset="" className="img-fluid profile-img mb-3"/><br />
                 <strong className="">Unknown</strong>
               </center>
                 <p className="p-3">
@@ -27,7 +27,8 @@ const Testimonial = () => {
             <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <div className="card mb-5 ">
             <center>
-                <img src="\Img\man (2).png" alt="" srcset="" className="img-fluid profile-img"/>
+                <img src="\Img\p3.png" alt="" srcset="" className="img-fluid profile-img mb-3"/><br />
+                <strong className="">Unknown</strong>
               </center>
                 <p className="p-3">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit.
@@ -41,7 +42,8 @@ const Testimonial = () => {
             <div className="col-12 col-sm-12 col-md-4 col-lg-4 col-xl-4 col-xxl-4">
             <div className="card mb-5">
               <center>
-                <img src="\Img\woman (1).png" alt="" srcset="" className="img-fluid profile-img"/>
+                <img src="\Img\p2.jpg" alt="" srcset="" className="img-fluid profile-img mb-3"/><br />
+                <strong className="">Unknown</strong>
               </center>
                 
                 <p className="p-3">
